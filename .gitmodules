@@ -1,0 +1,3 @@
+[submodule "restic-chunker"]
+	path = restic-chunker
+	url = git@github.com:AppliedCrypto-ETHZ/restic-chunker.git
